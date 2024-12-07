@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "c14220041.room"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "c14220041.room"
